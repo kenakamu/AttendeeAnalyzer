@@ -1,5 +1,6 @@
 #Attendee Analyzer
 ###This is Microsoft Cognitive Service sample application for Meetup.com events.
+日本語のブログ: https://blogs.msdn.microsoft.com/kenakamu/2017/03/05/use-microsoft-cognitive-service-to-optimize-meetup-event/
 
 See the video for demo starting at 46:29 [Tokyo Azure Meetup #11 - Building Intelligent Applications ](https://www.youtube.com/watch?v=UH3oJ-gfze8)
 Detail about Microsoft Cognitive Server. [Cognitive Service](https://www.microsoft.com/cognitive-services/en-us/)
